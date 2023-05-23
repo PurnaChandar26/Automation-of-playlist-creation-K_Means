@@ -9,13 +9,13 @@ This repository contains the code, research paper, dataset, and presentation sli
 5. Presentation
 6. Results
 7. Usage
-## Introduction
+## Introduction:
 In this project, we explore the audio features provided by the Spotify API and use them to cluster songs based on their acoustic properties. By applying clustering algorithms to the dataset, we aim to identify groups of songs with similar characteristics, such as tempo, energy, danceability, and more. The clustering analysis can provide insights into the relationships between different musical genres, artist styles, and listener preferences.
 
-## Dataset
+## Dataset:
 The dataset used for this project is included in the repository as a CSV file. It contains a collection of songs from various genres, each annotated with audio features extracted from Spotify. The dataset provides information such as song title, artist, genre, and a range of audio features that describe the song's acoustic attributes.
 
-## Research Paper
+## Research Paper:
 The research paper included in this repository presents the methodology, analysis, and findings of the project. It discusses the data preprocessing techniques, feature extraction, clustering algorithms used, and the interpretation of the clustering results. The paper also provides insights into the implications of the findings and potential future directions for research in this field.
 
 ## Code
