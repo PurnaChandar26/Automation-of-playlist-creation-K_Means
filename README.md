@@ -30,7 +30,7 @@ The presentation slides included in this repository provide a concise overview o
 ![image](https://github.com/PurnaChandar26/Spotify-Songs-Clustering-based-on-Audio-Features/assets/97793147/44e6957d-12a0-4dd9-a996-f30766eb31d6)
 ![image](https://github.com/PurnaChandar26/Spotify-Songs-Clustering-based-on-Audio-Features/assets/97793147/f18e3cb6-3f63-4d78-b090-a4ab3372151d)
 
-## Usage
+## Usage:
 To use the code in this repository, follow these steps:
 
 - Clone or download the repository to your local machine.
