@@ -18,13 +18,13 @@ The dataset used for this project is included in the repository as a CSV file. I
 ## Research Paper:
 The research paper included in this repository presents the methodology, analysis, and findings of the project. It discusses the data preprocessing techniques, feature extraction, clustering algorithms used, and the interpretation of the clustering results. The paper also provides insights into the implications of the findings and potential future directions for research in this field.
 
-## Code
+## Code:
 The code for this project is implemented in a Jupyter Notebook file (.ipynb). The notebook contains the step-by-step process of data preprocessing, feature extraction, clustering, and evaluation. It also includes visualizations of the clustering results and provides a clear understanding of the methodology used.
 
-## Presentation
+## Presentation:
 The presentation slides included in this repository provide a concise overview of the project, highlighting the main objectives, methodology, key findings, and conclusions. The presentation aims to deliver a clear and visually appealing summary of the project to facilitate easy understanding and knowledge sharing.
 
-## Results
+## Results:
 ![image](https://github.com/PurnaChandar26/Spotify-Songs-Clustering-based-on-Audio-Features/assets/97793147/608e0c03-c1f4-4eb4-8aeb-5481db5f9b08)
 ![image](https://github.com/PurnaChandar26/Spotify-Songs-Clustering-based-on-Audio-Features/assets/97793147/a240562f-99d0-47e5-ba00-31a9c130c814)
 ![image](https://github.com/PurnaChandar26/Spotify-Songs-Clustering-based-on-Audio-Features/assets/97793147/44e6957d-12a0-4dd9-a996-f30766eb31d6)
