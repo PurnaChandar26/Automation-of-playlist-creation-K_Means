@@ -1,4 +1,4 @@
-# Spotify Songs Clustering based on Audio Features:dftghh
+# Spotify Songs Clustering based on Audio Features:dftg
 This repository contains the code, research paper, dataset, and presentation slides for the project "Spotify Songs Clustering based on Audio Features". The project aims to analyze and cluster songs from the Spotify music library using audio features to identify patterns and similarities among the songs.
 
 ## Contents:
