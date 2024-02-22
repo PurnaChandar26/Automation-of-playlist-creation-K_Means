@@ -1,14 +1,6 @@
 # Spotify Songs Clustering based on Audio Features:
 This repository contains the code, research paper, dataset, and presentation slides for the project "Spotify Songs Clustering based on Audio Features". The project aims to analyze and cluster songs from the Spotify music library using audio features to identify patterns and similarities among the songs.
   
-## Contents:
-1. Introduction
-2. Dataset
-3. Research Paper
-4. Code 
-5. Presentation
-6. Results
-7. Usage 
 ## Introduction:
 In this project, we explore the audio features provided by the Spotify API and use them to cluster songs based on their acoustic properties. By applying clustering algorithms to the dataset, we aim to identify groups of songs with similar characteristics, such as tempo, energy, danceability, and more. The clustering analysis can provide insights into the relationships between different musical genres, artist styles, and listener preferences.
 
